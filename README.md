@@ -32,7 +32,8 @@ Using this input, the model predicts the best crops and fertilizers for optimizi
 - Integration with real-time weather APIs for dynamic recommendations.
 - Expand the database to support a wider variety of crops and fertilizers.
 - Include location-based pest and disease prediction for more holistic crop management recommendations.
-
+  
+#  
   
 # Preprocessing Notbook
 
